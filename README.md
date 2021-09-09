@@ -1,4 +1,4 @@
-# [Mailgun.js #189 Issue Repro](https://github.com/mailgun/mailgun-js/issues/189)
+# [Mailgun.js #190 Issue Repro](https://github.com/mailgun/mailgun-js/issues/190)
 
 ## Installation Instruction
 
